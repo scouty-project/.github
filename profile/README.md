@@ -1,25 +1,21 @@
 <p align="center">
-  <img width="320" alt="Scouty" src="https://scoutyapp.it/img/scouty-logo-full.png">
+<img width="320" alt="Scouty" src="https://scoutyapp.it/img/scouty-logo-full.png">
 </p>
 
 <p align="center">
-  <b>Scouty aiuta allenatori e società sportive a fare scouting, analizzare le prestazioni e gestire le proprie squadre.</b><br>
-  Dati, strumenti e intelligenza artificiale al servizio della pallavolo.
+<b>Scouty helps coaches and clubs scout matches, analyse performance and manage their teams.</b><br>
+Data, tools and artificial intelligence for volleyball.
 </p>
 
-- **Scout**: registri le azioni dal telefono e costruisci uno scout completo, con rotazioni, formazioni e direzioni.
-- **Analisi**: statistiche di squadra e per atleta, report, confronto tra partite e andamento della stagione.
-- **Coach**: atleti, ruoli, presenze, allenamenti, partite e calendario in un unico posto.
-- **Club**: le attività della società e il coordinamento delle squadre.
-- **Live**: condividi le partite con chi non è in palestra, genitori, tifosi e staff.
-- **AI**: fai domande sui tuoi dati e ottieni supporto nelle decisioni tecniche.
+- **Scout**: record every action from your phone and build a complete scout, with rotations, line-ups and directions.
+- **Analysis**: team and player statistics, reports, match comparison and the whole season at a glance.
+- **Coach**: players, roles, attendance, training sessions, matches and calendar in one place.
+- **Club**: organise the club's activities and coordinate its teams.
+- **Live**: share matches with everyone who is not in the gym, parents, fans and staff.
+- **AI**: ask questions about your data and get support for technical decisions.
 
-Esporta le partite in formato DataVolley e usale con gli strumenti che già conosci.
+Export your matches in DataVolley format and keep using the tools you already know.
 
-**Provala** → [scoutyapp.it](https://scoutyapp.it) · [demo](https://demo.scoutyapp.it) · [app](https://app.scoutyapp.it)
+**Try it** → [scoutyapp.it/en](https://scoutyapp.it/en/) · [demo](https://demo.scoutyapp.it) · [app](https://app.scoutyapp.it)
 
----
-
-**Scouty helps coaches and clubs scout, analyse performance and manage their teams**: real-time scouting from the phone, team and player statistics, attendance and training, live match sharing and AI support, built for volleyball. [scoutyapp.it/en](https://scoutyapp.it/en/)
-
-<sub>Il codice di Scouty è privato. Contatti: <a href="mailto:info@scoutyapp.it">info@scoutyapp.it</a></sub>
+<sub>Scouty's source code is private. Contact: <a href="mailto:info@scoutyapp.it">info@scoutyapp.it</a></sub>
